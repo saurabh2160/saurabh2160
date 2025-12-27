@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @saurabh2160
-- 👀 I’m interested in ...backend development
-- 🌱 I’m currently learning ...node js
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Saurabh Full-stack developer with over 3+ years of experience designing, building, and scaling high-impact full-stack and backend systems.
+- 👀 I’m interested in ...backend development, full-stack development, GenAI, React.
 - 📫 How to reach me ...saurabhmaohar90@gmail.com
 
 <!---
